@@ -2,8 +2,8 @@
 2eme jeu 2D réalisé en groupe
 
 autors:
-VERON Fréréric
-ROBERJOT Loïck
+#### VERON Fréréric
+#### ROBERJOT Loïck
 
 ## Présentation du projet:
 
