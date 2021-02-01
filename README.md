@@ -1,9 +1,7 @@
 # Lava at the IUT
 2eme jeu 2D réalisé en groupe
 
-autors:
-#### VERON Fréréric
-#### ROBERJOT Loïck
+autors: VERON Fréréric, ROBERJOT Loïck
 
 ## Présentation du projet:
 
